@@ -1,0 +1,24 @@
+## 书籍 
+市面上有很多关于 PHP 的书，但遗憾的是很多都已经非常陈旧而且不正确的资料。甚至还有出版商发布「 PHP 6 」，这是不存在的书，而且永远不会出现。因为那些书，所以 PHP 的下一个版本为「 PHP 7 」。
+
+
+这个章节的目录主要是针对 PHP 开发，并且会随着最新的技术趋势而更新。如果你想在这里加入你的书，请发送一个 PR ，我们将会审查你提供的内容是否有相关性。
+
+
+### 免费书籍
+
+* [PHP The Right Way](https://leanpub.com/phptherightway/) - This website is available as a book completely for free.
+
+### 付费书籍
+
+* [Modernizing Legacy Applications In PHP](https://leanpub.com/mlaphp) - Get your code under control in a series of
+small, specific steps
+* [Building Secure PHP Apps](https://leanpub.com/buildingsecurephpapps) - Learn the security basics that a senior
+developer usually acquires over years of experience, all condensed down into one quick and easy handbook
+* [The Grumpy Programmer's Guide To Building Testable PHP Applications](https://leanpub.com/grumpy-testing) - Learning
+to write testable doesn't have to suck
+* [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) - A guide to some of the most common
+security terms and provides some examples of them in every day PHP
+* [Scaling PHP]( https://leanpub.com/scalingphp) - Stop playing sysadmin and get back to coding
+* [Signaling PHP]( https://leanpub.com/signalingphp) - PCNLT signals are a great help when writing PHP scripts that
+run from the command line.
