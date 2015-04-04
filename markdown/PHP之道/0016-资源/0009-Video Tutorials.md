@@ -11,3 +11,4 @@
 * [PHP Training on Pluralsight](http://www.pluralsight.com/search/?searchTerm=php)
 * [PHP Training on Lynda.com](http://www.lynda.com/search?q=php)
 * [PHP Training on Tutsplus](http://code.tutsplus.com/categories/php/courses)
+* [Laracasts](https://laracasts.com/)
