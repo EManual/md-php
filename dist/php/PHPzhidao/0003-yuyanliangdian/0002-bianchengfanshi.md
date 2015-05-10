@@ -8,9 +8,9 @@ PHP 拥有完整的面向对象编程的特性，包括类，抽象类，接口�
 * [阅读 PHP 面向对象编程][oop]
 * [阅读 Traits][traits]
 
-### 函数式编程Functional Programming
+### 函数式编程 Functional Programming
 
-PHP 支持函数是"第一等公民"，即函数可以被赋值给一个变量，包括用户自定义或者是内置函数，然后动态调用它。函数可以作为参数传递给其他函数（称为高阶函数），也可以作为函数返回值返回。
+PHP 支持函数是"第一等公民"，即函数可以被赋值给一个变量，包括用户自定义的或者是内置函数，然后动态调用它。函数可以作为参数传递给其他函数（称为高阶函数），也可以作为函数返回值返回。
 
 PHP 支持递归，也就是函数自己调用自己，但多数 PHP 代码使用迭代。
 
@@ -18,7 +18,7 @@ PHP 支持递归，也就是函数自己调用自己，但多数 PHP 代码使�
 
 PHP 5.4 增加了将闭包绑定到对象作用域中的特性，并改善其可调用性，如此即可在大部分情况下使用匿名函数取代一般的函数。
 
-* 学习更多 [PHP 函数式编程](/pages/Functional-Programming.html)
+* 学习更多 [PHP 函数式编程](/php-the-right-way/pages/Functional-Programming.html)
 * [阅读匿名函数][anonymous-functions]
 * [阅读闭包类][closure-class]
 * [更多关于 Closures RFC][closures-rfc]
@@ -44,4 +44,3 @@ PHP 通过反射 API 和魔术方法，可以实现多种方式的元编程。�
 [magic-methods]: http://php.net/language.oop5.magic
 [reflection]: http://php.net/intro.reflection
 [overloading]: http://php.net/language.oop5.overloading
-

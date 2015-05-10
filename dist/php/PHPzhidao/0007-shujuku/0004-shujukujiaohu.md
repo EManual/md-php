@@ -55,7 +55,7 @@ include 'views/foo-list.php';
 
 ```php
 <?php
-class FooModel()
+class FooModel
 {
     protected $db;
 
